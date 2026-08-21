@@ -6,7 +6,8 @@ public class Main {
     "L100",
     "Dr Ahmad",
     "Java Programming",
-    "Faculty of Information Technology"
+    "Facu
+    lty of Information Technology"
 );
 
  lecturer.displayInfo();
