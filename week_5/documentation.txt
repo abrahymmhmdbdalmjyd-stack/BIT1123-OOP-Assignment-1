@@ -1,0 +1,10 @@
+Week 5 - Documentation
+
+1. Why are the variables declared as private?
+The variables are private to protect the data. They cannot be changed directly from outside the class.
+
+2. What happens if the variables are declared public?
+If the variables are public, anyone can access and change the data directly. This is not secure.
+
+3. Why do we use getters and setters?
+We use getters and setters to safely read and update private variables. This is called encapsulation.
